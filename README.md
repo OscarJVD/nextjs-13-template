@@ -1,3 +1,6 @@
+# Steps to define standard for all projects
+- pnpm i prettier -D && npx eslint --init (Desinstalar node y volver a instalar versión LTS si da error)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
